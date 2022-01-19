@@ -1006,7 +1006,7 @@ Declaring Namespace Prefixes</h3>
 <h3 id="invalid">
 Invalid Selectors and Error Handling</h3>
 
-	User agents must observe the rules for handling
+	User agents should observe the rules for handling
 	<dfn export lt="invalid selector" local-lt="invalid">invalid selectors</dfn>:
 
 	<ul>
